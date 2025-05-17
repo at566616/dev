@@ -1,9 +1,9 @@
 type: collection.insomnia.rest/5.0
-name: My Collection
+name: Attacker Collection
 meta:
   id: wrk_6d385d585d4b44d1821cf647e5ce1c56
   created: 1747458324122
-  modified: 1747458324122
+  modified: 1747462911602
 collection:
   - url: https://evil.com
     name: New Request
