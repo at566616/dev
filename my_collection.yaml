@@ -4,6 +4,36 @@ meta:
   id: wrk_6d385d585d4b44d1821cf647e5ce1c56
   created: 1747458324122
   modified: 1747458324122
+collection:
+  - url: https://evil.com
+    name: New Request
+    meta:
+      id: req_b4d4950b7606443ab047dc5a4b3bb0a8
+      created: 1747462404273
+      modified: 1747462414768
+      isPrivate: false
+      sortKey: -1747462404273
+    method: GET
+    body:
+      mimeType: multipart/form-data
+      params:
+        - id: pair_ccc6a74ee3774f339ba87bbf28513613
+          name: Helo
+          value: test
+          disabled: false
+    headers:
+      - name: Content-Type
+        value: multipart/form-data
+      - name: User-Agent
+        value: insomnia/11.1.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
 cookieJar:
   name: Default Jar
   meta:

@@ -10,6 +10,14 @@ cookieJar:
     id: jar_4eb972fa5e2af036b2b41f451028ff2574c42a57
     created: 1747457679072
     modified: 1747457679072
+  cookies:
+    - id: 9e1b8509-1ea5-437b-a9d4-7ef24d3852d0
+      key: foo
+      value: bar
+      domain: domain.com
+      path: /
+      secure: false
+      httpOnly: false
 environments:
   name: Base Environment
   meta:
