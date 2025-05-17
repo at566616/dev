@@ -1,0 +1,19 @@
+type: collection.insomnia.rest/5.0
+name: My Collection
+meta:
+  id: wrk_6d385d585d4b44d1821cf647e5ce1c56
+  created: 1747458324122
+  modified: 1747458324122
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_0fe218ce172c3faa141a3ea826567e64d1145aea
+    created: 1747458324125
+    modified: 1747458324125
+environments:
+  name: Base Environment
+  meta:
+    id: env_0fe218ce172c3faa141a3ea826567e64d1145aea
+    created: 1747458324124
+    modified: 1747458324124
+    isPrivate: false
